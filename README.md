@@ -1,2 +1,2 @@
-# PruebasFuncionalesUnitariasAPI
-Pruebas funcionales y unitarias del Api
+# PruebasFuncionalesAPI
+Este archivo contiene las pruebas funcionales relizadas sobre la API mediante postman
